@@ -19,7 +19,7 @@ export const PROJECTS: Project[] = [
     description: 'An advanced ecosystem for developers designed to streamline project management and team collaboration through a centralized interface.',
     longDescription: 'DevVortex is a sophisticated software solution focused on increasing developer productivity by integrating real-time communication tools with automated workflow tracking.',
     tags: ['Next.js', 'Node.js', 'PostgreSQL', 'System Architecture'],
-    imageUrl: 'image/devvortex.jpg',
+    imageUrl: 'public/devvortex.jpg',
     featured: true,
     githubUrl: 'https://github.com/muhammadibrahimshujasheikh12',
     demoUrl: 'https://devorrtexco.netlify.app'
