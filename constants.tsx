@@ -4,14 +4,14 @@ import { Project, Experience, Skill } from './types';
 export const PROJECTS: Project[] = [
   {
     id: 'p1',
-    title: 'Modern Enterprise Portfolio',
-    description: 'A high-performance, responsive portfolio platform built with React and TypeScript, featuring optimized asset loading and seamless transitions.',
-    longDescription: 'This platform serves as a showcase of technical capabilities, utilizing modular architecture, strict type safety, and fluid animations to provide a premium user experience.',
-    tags: ['React', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
-    imageUrl: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=2000',
+    title: 'BakingForCraving',
+    description: 'A delicious, fast-loading digital experience showcasing artisanal baked goods and desserts, built with modern web technology for smooth browsing and instant indulgence discovery.',
+    longDescription: 'BakingForCraving is a warm, responsive platform designed to celebrate handcrafted pastries and desserts, combining beautiful visuals with seamless navigation to help customers explore, order, and savor our creations.',
+    tags: ['React 19', 'TypeScript 5.8', 'Tailwind CSS', 'Vite'],
+    imageUrl: 'bakekravingsco.jpg',
     featured: true,
-    githubUrl: 'https://github.com/muhammadibrahimshujasheikh12',
-    demoUrl: 'https://portfolio-showcase.vercel.app/'
+    githubUrl: 'https://github.com/muhammadibrahimshujasheikh12/-BakingForCraving',
+    demoUrl: 'https://bakekravingsco.netlify.app/'
   },
   {
     id: 'p2',
