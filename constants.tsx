@@ -11,7 +11,7 @@ export const PROJECTS: Project[] = [
     imageUrl: 'bakekravingsco.jpg',
     featured: true,
     githubUrl: 'https://github.com/muhammadibrahimshujasheikh12/-BakingForCraving',
-    demoUrl: 'https://bakekravingsco.netlify.app/'
+    demoUrl: 'https://bakingforcraving.netlify.app/'
   },
   {
     id: 'p2',

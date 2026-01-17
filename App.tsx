@@ -9,7 +9,7 @@ import { PROJECTS, SKILLS, Icons } from './constants';
 
 const App: React.FC = () => {
   const githubUrl = "https://github.com/muhammadibrahimshujasheikh12";
-  const linkedinUrl = "https://www.linkedin.com/in/muhammad-ibrahim-a4644235b/";
+  const linkedinUrl = "https://www.linkedin.com/in/muhammad-ibrahim-73484a3a5/";
 
   return (
     <div className="min-h-screen bg-transparent relative w-full overflow-x-hidden selection:bg-[#33ccff] selection:text-black transition-colors duration-500">
